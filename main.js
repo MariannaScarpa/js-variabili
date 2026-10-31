@@ -46,3 +46,5 @@ const Somma = a + b;
 const Prodotto = a * b;
 const Quoziente = a / b;
 const Differenza = a - b;
+
+document.getElementById("titolo").innerHTML = "Prova funzionante!";
