@@ -23,3 +23,10 @@ console.log(msg);
 let Nome = "Giulia";
 const Anno = 2026;
 let Presenza = false;
+
+
+//esercizio 4 dispensa
+
+let Professore = "Luca"
+let AnniDiEsperienza = 10
+let Online = true
