@@ -33,6 +33,16 @@ let Presenza = false;
 
 //esercizio 4 dispensa
 
-let Professore = "Luca"
-let AnniDiEsperienza = 10
-let Online = true
+let Professore = "Luca";
+let AnniDiEsperienza = 10;
+let Online = true;
+
+//esercizio 6 dispensa
+
+const a = 20;
+const b = 4;
+
+const Somma = a + b;
+const Prodotto = a * b;
+const Quoziente = a / b;
+const Differenza = a - b;
