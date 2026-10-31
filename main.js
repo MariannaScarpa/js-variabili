@@ -14,6 +14,12 @@ let MyAge = AnnoCorrente - AnnoDiNascita;
 
 let MyJob = "Pizzaiola";
 
+//esercizio 5 dispensa
+
+let MSG = `Mi chiamo ${MyName}, ho ${MyAge} anni e faccio la ${MyJob}`;
+
+console.log(MSG)
+
 let msg = "Mi chiamo " + MyName + ", ho " + MyAge + "anni e faccio la " + MyJob;
 
 console.log(msg);
